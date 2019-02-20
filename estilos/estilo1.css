@@ -1,0 +1,98 @@
+body{
+    
+}
+
+h1{
+    font-family: 'Montserrat';
+    text-align: center;
+    color: #000f50;
+}
+
+h2{
+    font-family: 'Oswald';
+    color: #f7f7f7;
+    padding: 5%
+}
+
+h3{
+    color: #f7f7f7;
+    font-size: 310%;
+    text-align: center; 
+}
+
+p{ 
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #003c5f;
+    text-align: center;
+}
+
+.row > div {
+    /*background: #f2f2f2;*/
+    margin:0px 0;
+}
+
+.uno {
+    background: #fa8a22;
+}
+
+.dos {
+    background: #ffffff;
+}
+
+.tres{
+    background: url(../recur/01.jpg) fixed repeat;
+}
+.cuatro {
+    background: url(../recur/05.jpg) fixed;
+}
+.cinco {
+    background: #c9390d;
+}
+.seis {
+    background: #585858;
+}
+.siete {
+
+    background: #7a0000;
+}
+.ocho {
+    background: url(../recur/06.jpg) fixed;
+}
+.nueve {
+    background: #7ab1f0;
+}
+.diez {
+    background: url(../recur/backgroundlog.jpg) fixed repeat;
+}
+
+.once {
+    background: #000000;
+}
+
+.uk-active{
+    width: 30%;
+    padding: 0;
+}
+
+table {
+    border-collapse:collapse;
+    border:60px solid rgb(185, 0, 0);
+  }
+  /* Espacio de relleno en celdas y cabeceras */
+  td, th {
+    padding:70px;
+  }
+  /* Modificación de estilos en cabeceras */
+  th {
+    background:rgb(221, 0, 0);
+    border-bottom:18px solid rgb(187, 0, 0);
+    color:rgb(87, 7, 7);
+    text-transform:uppercase;
+  }
+  /* Modificación de estilos en celdas */
+  td {
+    text-align:center;
+    border-bottom:18px solid rgb(187, 0, 0);
+    color:rgb(223, 22, 2);
+    font-size:18px;
+  }

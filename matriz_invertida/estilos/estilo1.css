@@ -1,0 +1,44 @@
+body{
+    background: url(../recur/backgroundbody.png) fixed repeat;
+}
+
+h1{
+    font-family: 'Montserrat';
+    text-align: center;
+    color: #000f50;
+}
+p{ 
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #003c5f;
+    text-align: center;
+}
+
+.row > div {
+    /*background: #f2f2f2;*/
+    margin:0px 0;
+}
+
+.uno {
+    background: #f0f0f0;
+}
+.dos {
+    background: #f0f0f0;
+}
+
+.cuatro {
+    background: #f0f0f0;
+}
+.cinco {
+    background: #f0f0f0;
+}
+.seis {
+    background: #8f8f8f;
+}
+.siete {
+    background: #8f8f8f;
+}
+
+.uk-active{
+    width: 30%;
+    padding: 0;
+}
